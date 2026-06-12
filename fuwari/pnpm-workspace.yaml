@@ -1,0 +1,4 @@
+allowBuilds:
+  '@byte.n/fuwari': false
+  esbuild: false
+  sharp: false
